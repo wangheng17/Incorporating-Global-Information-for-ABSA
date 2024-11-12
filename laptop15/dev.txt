@@ -1,0 +1,402 @@
+BOUGHT FROM WAL-MART, I BELIEVE THAT THIS LAPTOP WAS A REPAIRED ITEM.####LAPTOP#MISCELLANEOUS####0
+THIS LAPTOP WAS BAD FROM THE FIRST DAY OF USE----BROUGHT IT BACK TO STORE FOR RETURN OF MONEY.####LAPTOP#QUALITY####2
+THIS LAPTOP WAS BAD FROM THE FIRST DAY OF USE----BROUGHT IT BACK TO STORE FOR RETURN OF MONEY.####LAPTOP#GENERAL####2
+NOW AM VERY APREHENSIVE ABOUT TOSHIBA LAPTOPS.####COMPANY#GENERAL####2
+WILL NOT EVERY BUY ANOTHER--------LOU####LAPTOP#GENERAL####2
+This is a great value for the money.####LAPTOP#GENERAL####1
+This is a great value for the money.####LAPTOP#PRICE####0
+This is a great computer.####LAPTOP#GENERAL####1
+We haven't had any problems with it at all.####LAPTOP#GENERAL####1
+The body is a bit cheaply made so it will be interesting to see how long it holds up.####LAPTOP#QUALITY####2
+Overall though, for the money spent it's a great deal.####LAPTOP#GENERAL####1
+Overall though, for the money spent it's a great deal.####LAPTOP#PRICE####1
+But let me tell you, the mac book pro is so professional.####LAPTOP#GENERAL####1
+Its very nice and once you learn the features you will be so happy to have such a sophisticated computer.####LAPTOP#GENERAL####1
+Its very nice and once you learn the features you will be so happy to have such a sophisticated computer.####LAPTOP#DESIGN_FEATURES####1
+For example, when my husband turns the light out while I'm on the computer. the screen brightness automatically adjusts.####DISPLAY#DESIGN_FEATURES####1
+It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted.####KEYBOARD#USABILITY####1
+It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted.####KEYBOARD#QUALITY####1
+It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted.####KEYBOARD#DESIGN_FEATURES####1
+Oh, it is such a great piece of equipment.####LAPTOP#GENERAL####1
+Its Office compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.####SOFTWARE#USABILITY####1
+Its Office compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.####SOFTWARE#DESIGN_FEATURES####0
+Its Office compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.####SOFTWARE#OPERATION_PERFORMANCE####0
+I get a ton of compliments on its size, and speaking as someone who regularly commutes on a bus, I can attest to the fact that this is the perfect size computer if you're restricted to the width of your body for computing room.####LAPTOP#DESIGN_FEATURES####1
+I get a ton of compliments on its size, and speaking as someone who regularly commutes on a bus, I can attest to the fact that this is the perfect size computer if you're restricted to the width of your body for computing room.####LAPTOP#PORTABILITY####1
+Very long-life battery (up to 10-11 hours depending on how you configure power level settings).####BATTERY#OPERATION_PERFORMANCE####1
+I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.####LAPTOP#USABILITY####0
+I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.####LAPTOP#OPERATION_PERFORMANCE####1
+I play a lot of casual games online, and the touchpad is very responsive.####MOUSE#OPERATION_PERFORMANCE####1
+I wouldn't play a first-person shooter with this, mind, but if you wanted to run MS Office, email, chat, download a video, listen to music from a certain fruit-named music store, and were looking for a highly portable yet powerful netbook to do that all in, I'd highly recommend checking this out.####LAPTOP#PORTABILITY####1
+I wouldn't play a first-person shooter with this, mind, but if you wanted to run MS Office, email, chat, download a video, listen to music from a certain fruit-named music store, and were looking for a highly portable yet powerful netbook to do that all in, I'd highly recommend checking this out.####LAPTOP#OPERATION_PERFORMANCE####1
+I wouldn't play a first-person shooter with this, mind, but if you wanted to run MS Office, email, chat, download a video, listen to music from a certain fruit-named music store, and were looking for a highly portable yet powerful netbook to do that all in, I'd highly recommend checking this out.####LAPTOP#MISCELLANEOUS####1
+The downside to this netbook is pretty much the same for any netbook: screen size is not something I'd stare at for the entire 10-11 hours of battery life five days a week.####DISPLAY#DESIGN_FEATURES####2
+Additional caveat: the base installation comes with some Toshiba-specific software that may or may not be to a user's liking.####SOFTWARE#DESIGN_FEATURES####0
+Everything from the design to the OS is simple and to the point.####LAPTOP#DESIGN_FEATURES####1
+Everything from the design to the OS is simple and to the point.####OS#GENERAL####1
+Everything from the design to the OS is simple and to the point.####LAPTOP#GENERAL####1
+LOVE IT LOVE IT LOVE IT!####LAPTOP#GENERAL####1
+It really is perfect for work and play.####LAPTOP#MISCELLANEOUS####1
+I am able to play 720p and 1080p media files just fine with it.####LAPTOP#MISCELLANEOUS####1
+Everything I have tried has worked and I never have to carry the wall charger cause the battery is so awesome.####LAPTOP#OPERATION_PERFORMANCE####1
+Everything I have tried has worked and I never have to carry the wall charger cause the battery is so awesome.####BATTERY#OPERATION_PERFORMANCE####1
+The only thing that isn't perfect about this netbook is the speakers, they are not loud at all but I expected that.####MULTIMEDIA_DEVICES#QUALITY####2
+I upgraded it's RAM to 2GB, I am very happy with it.####LAPTOP#GENERAL####1
+I upgraded it's RAM to 2GB, I am very happy with it.####MEMORY#DESIGN_FEATURES####0
+lots of preloaded software.####LAPTOP#DESIGN_FEATURES####0
+the only problem is that i had to add 1 gb RAM, the computer was kinda slow.####MEMORY#DESIGN_FEATURES####2
+the only problem is that i had to add 1 gb RAM, the computer was kinda slow.####LAPTOP#OPERATION_PERFORMANCE####2
+tosiba has a good reputation, my llast computer was an acer.####COMPANY#GENERAL####1
+this is starting off good.####LAPTOP#GENERAL####1
+What a great little laptop.####LAPTOP#GENERAL####1
+Maybe not the cutting edge (Satellite L455D) but it is a workhorse.####LAPTOP#DESIGN_FEATURES####0
+Maybe not the cutting edge (Satellite L455D) but it is a workhorse.####LAPTOP#OPERATION_PERFORMANCE####1
+I bought it to use in college and it is perfect.####LAPTOP#MISCELLANEOUS####1
+I dual boot with Linux and that other security-prone OS and it performs flawlessly.####LAPTOP#OPERATION_PERFORMANCE####1
+I made a perfect decision when I bought the Toshiba!####LAPTOP#GENERAL####1
+I made a perfect decision when I bought the Toshiba!####COMPANY#GENERAL####1
+Excellent product for the money.####LAPTOP#GENERAL####1
+Excellent product for the money.####LAPTOP#PRICE####0
+No problems, no lock ups, no disappointments.####LAPTOP#OPERATION_PERFORMANCE####1
+No problems, no lock ups, no disappointments.####LAPTOP#GENERAL####1
+Not super fancy, but not super expensive either.####LAPTOP#DESIGN_FEATURES####0
+Not super fancy, but not super expensive either.####LAPTOP#PRICE####0
+Highly recommend for daily use.####LAPTOP#MISCELLANEOUS####1
+The Computer itself is a good product but the repair depot stinks.####LAPTOP#GENERAL####1
+The Computer itself is a good product but the repair depot stinks.####SUPPORT#QUALITY####2
+I have had to send in my laptop three times to get it fixed.####SUPPORT#QUALITY####2
+Toshiba does not send any one out unless you have paid extra to have the on site repair done.####SUPPORT#QUALITY####2
+I would tell the technician I knew exactly what was wrong with it but they did not listen and I had to go through a bunch of junk to get them to tell me I needed to send the computer in.####SUPPORT#QUALITY####2
+This computer that I have has had issues with the keyboard where it lost half the keyboard functions.####KEYBOARD#QUALITY####2
+This computer that I have has had issues with the keyboard where it lost half the keyboard functions.####KEYBOARD#OPERATION_PERFORMANCE####2
+As well as having the plug in the computer come loose.####POWER_SUPPLY#QUALITY####2
+So having the AC plug go out on me and get lose or I could actually here it inside my computer on two of the three times is not good.####POWER_SUPPLY#QUALITY####2
+It still seems to be a little lose now but so far seems to be hanging in there.####POWER_SUPPLY#QUALITY####2
+The Mac Book Pro performs flawlessly.####LAPTOP#OPERATION_PERFORMANCE####1
+Never had a single problem, and don't have to worry about viruses.####LAPTOP#GENERAL####1
+Never had a single problem, and don't have to worry about viruses.####LAPTOP#QUALITY####1
+While I mostly use it for email, internet and gaming, I'm confident all other applications live up to the high standard I've come to appreciate from Mac laptops.####LAPTOP#MISCELLANEOUS####1
+Worth the investment and truly a fine piece of equipment.####LAPTOP#GENERAL####1
+Right out of the box, this little netbook did everything I asked of it, including streaming the everyday video you're bound to encounter checking mail and websites (my biggest complaint previously).####LAPTOP#GENERAL####1
+Right out of the box, this little netbook did everything I asked of it, including streaming the everyday video you're bound to encounter checking mail and websites (my biggest complaint previously).####LAPTOP#MISCELLANEOUS####1
+It even has a great webcam, and Skype works very well.####LAPTOP#DESIGN_FEATURES####1
+It even has a great webcam, and Skype works very well.####MULTIMEDIA_DEVICES#GENERAL####1
+It even has a great webcam, and Skype works very well.####SOFTWARE#OPERATION_PERFORMANCE####1
+The fact that you can spend over $100 on just a webcam underscores the value of this machine.####LAPTOP#GENERAL####1
+The Windows 7 Starter is, in my opinion, a great way to think about using your netbook: basics, basics, basics.####OS#GENERAL####2
+I wiped nearly everything off of it, installed OpenOffice and Firefox, and I am operating an incredibly efficient and useful machine for a great price.####OS#GENERAL####2
+I wiped nearly everything off of it, installed OpenOffice and Firefox, and I am operating an incredibly efficient and useful machine for a great price.####LAPTOP#PRICE####1
+I wiped nearly everything off of it, installed OpenOffice and Firefox, and I am operating an incredibly efficient and useful machine for a great price.####LAPTOP#OPERATION_PERFORMANCE####1
+I wiped nearly everything off of it, installed OpenOffice and Firefox, and I am operating an incredibly efficient and useful machine for a great price.####LAPTOP#GENERAL####1
+This netbook is a perfect supplementary computer to another laptop or desktop (my wife and I have another laptop), or if you are a user who uses the computer for simple tasks.####LAPTOP#MISCELLANEOUS####1
+I use this for my tutoring business, and since I'm always bouncing from student to student, it is ideal for portability and battery life (yes, it gets the 8 hours as advertised!).####LAPTOP#PORTABILITY####1
+I use this for my tutoring business, and since I'm always bouncing from student to student, it is ideal for portability and battery life (yes, it gets the 8 hours as advertised!).####BATTERY#OPERATION_PERFORMANCE####1
+ASUS has done an outstanding job of evolving their netbooks, and I would recommend this to anyone who both understands their needs and how netbooks can fit them.####LAPTOP#GENERAL####1
+ASUS has done an outstanding job of evolving their netbooks, and I would recommend this to anyone who both understands their needs and how netbooks can fit them.####COMPANY#GENERAL####1
+little short on RAM but you get what you pay for.####MEMORY#DESIGN_FEATURES####0
+the hinge design forced you to place various connections all around the computer, left right and front.####LAPTOP#DESIGN_FEATURES####2
+the hinge design forced you to place various connections all around the computer, left right and front.####LAPTOP#USABILITY####2
+the headphone and mic jack are in front of touch-pad making the touch-pad hard to use when using headphones/mic, not to mention the laptop was designed for right handed person.####PORTS#DESIGN_FEATURES####2
+the headphone and mic jack are in front of touch-pad making the touch-pad hard to use when using headphones/mic, not to mention the laptop was designed for right handed person.####MOUSE#USABILITY####2
+the headphone and mic jack are in front of touch-pad making the touch-pad hard to use when using headphones/mic, not to mention the laptop was designed for right handed person.####LAPTOP#DESIGN_FEATURES####2
+the headphone and mic jack are in front of touch-pad making the touch-pad hard to use when using headphones/mic, not to mention the laptop was designed for right handed person.####LAPTOP#USABILITY####2
+Cords coming out the right for power plus cords coming out front for headphones/mic plus network connection on left make for a very messy setup with cords going every direction.####LAPTOP#DESIGN_FEATURES####2
+Cords coming out the right for power plus cords coming out front for headphones/mic plus network connection on left make for a very messy setup with cords going every direction.####LAPTOP#USABILITY####2
+I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time.####OS#GENERAL####1
+I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time.####LAPTOP#USABILITY####2
+I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time.####LAPTOP#DESIGN_FEATURES####2
+I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time.####COMPANY#GENERAL####2
+I was happy with My purchase of a Toshiba Satellite L305D-S5934 laptop until it came time to have it repaired under the Toshiba Warranty.####LAPTOP#GENERAL####1
+I was happy with My purchase of a Toshiba Satellite L305D-S5934 laptop until it came time to have it repaired under the Toshiba Warranty.####SUPPORT#GENERAL####2
+The computer was shipped to their repair depot  on june 24 and returned on July 2 seems like a short turn around time except the computer was not repaired when it was returned.####SHIPPING#QUALITY####1
+The computer was shipped to their repair depot  on june 24 and returned on July 2 seems like a short turn around time except the computer was not repaired when it was returned.####SUPPORT#QUALITY####2
+They were totally unconcerned that the computer was not correctly repaired in the first place.####SUPPORT#QUALITY####2
+The computer is currently in West Verginia doe to the method of shipping choosen by Toshiba.####SHIPPING#QUALITY####2
+The computer could have been shipped by Priority Mail through the USPS for the same cost and arrived by Noon on Tue.####SHIPPING#QUALITY####2
+Instead it is sitting in West Verginia waiting for UPS to take two days to send Me a box and Two days for them to ship the computer some 691 miles by air? to Louisville Ky.####SHIPPING#QUALITY####2
+And Toshiba is totally unconcerned.####SUPPORT#QUALITY####2
+The reaction of Toshiba is there is nothing you can do about it so just sit back and except the fact that you are powerless and it is mind over matter.####SUPPORT#QUALITY####2
+We don't Mind and You don't Matter.####SUPPORT#QUALITY####2
+I would not recommend the purchase of this modle of Toshiba Computer or any Toshiba product for that matter.####LAPTOP#GENERAL####2
+I would not recommend the purchase of this modle of Toshiba Computer or any Toshiba product for that matter.####COMPANY#GENERAL####2
+When it come time for warranty service to Toshiba you don't matter.####SUPPORT#QUALITY####2
+This computer I used daily nice compact design.####LAPTOP#DESIGN_FEATURES####1
+This computer I used daily nice compact design.####LAPTOP#USABILITY####1
+Excellent speed for processing data.####LAPTOP#OPERATION_PERFORMANCE####1
+And if you are a game player it works with World Of Warcraft wonderfully.####LAPTOP#MISCELLANEOUS####1
+All in all great item highly recommend it.####LAPTOP#GENERAL####1
+i would have to say that overall its great!####LAPTOP#GENERAL####1
+Aside from the trial software and the short battery life, lack of a webcam, its great.####SOFTWARE#MISCELLANEOUS####2
+Aside from the trial software and the short battery life, lack of a webcam, its great.####BATTERY#OPERATION_PERFORMANCE####2
+Aside from the trial software and the short battery life, lack of a webcam, its great.####LAPTOP#DESIGN_FEATURES####2
+Aside from the trial software and the short battery life, lack of a webcam, its great.####LAPTOP#GENERAL####1
+Fast, great visual!####LAPTOP#OPERATION_PERFORMANCE####1
+Fast, great visual!####DISPLAY#QUALITY####1
+Oh yea, has no numeric pad on the side.####KEYBOARD#DESIGN_FEATURES####2
+2nd Best computer in the world  only one way this computer might become the best is that it needs to upgreade patches  to make less easier for people to hack into####LAPTOP#GENERAL####1
+2nd Best computer in the world  only one way this computer might become the best is that it needs to upgreade patches  to make less easier for people to hack into####LAPTOP#QUALITY####0
+My favorite part of this computer is that it has a vga port so I can connect it to a bigger screen.####LAPTOP#DESIGN_FEATURES####0
+My favorite part of this computer is that it has a vga port so I can connect it to a bigger screen.####LAPTOP#CONNECTIVITY####1
+Great wifi too.####LAPTOP#CONNECTIVITY####1
+The screen is a little glary, and I hated the clicking buttons, but I got used to them.####DISPLAY#QUALITY####2
+The screen is a little glary, and I hated the clicking buttons, but I got used to them.####MOUSE#USABILITY####0
+Overall for the money this is a good deal.####LAPTOP#GENERAL####1
+Overall for the money this is a good deal.####LAPTOP#PRICE####0
+There is no number pad to the right of the keyboard which is a bummer.####KEYBOARD#DESIGN_FEATURES####2
+The speakers are terrible and are probably the cheapest ones I have ever seen in a laptop so if your planning to listen to music I suggest you get something better.####MULTIMEDIA_DEVICES#GENERAL####2
+The speakers are terrible and are probably the cheapest ones I have ever seen in a laptop so if your planning to listen to music I suggest you get something better.####MULTIMEDIA_DEVICES#QUALITY####2
+while the keyboard itself is alright, the plate around it is cheap plastic and makes a hollow sound when using the mouse command buttons.####KEYBOARD#GENERAL####0
+while the keyboard itself is alright, the plate around it is cheap plastic and makes a hollow sound when using the mouse command buttons.####LAPTOP#QUALITY####2
+I am overall very pleased with my toshiba satellite, I like the extra features, I love the windows 7 home premium.####LAPTOP#GENERAL####1
+I am overall very pleased with my toshiba satellite, I like the extra features, I love the windows 7 home premium.####LAPTOP#DESIGN_FEATURES####1
+I am overall very pleased with my toshiba satellite, I like the extra features, I love the windows 7 home premium.####OS#GENERAL####1
+The battery life has not decreased since I bought it, so i'm thrilled with that.####BATTERY#OPERATION_PERFORMANCE####1
+The battery life has not decreased since I bought it, so i'm thrilled with that.####BATTERY#QUALITY####1
+I also love the design, the looks, the feel, and the my toshiba feature is wonderfull.####LAPTOP#DESIGN_FEATURES####1
+I also love the design, the looks, the feel, and the my toshiba feature is wonderfull.####LAPTOP#QUALITY####1
+I would easly reccomend this laptop to a friend.####LAPTOP#GENERAL####1
+Couldnt not use it.####LAPTOP#USABILITY####2
+Tried to make a recovey disk wouldnt get passed the first recovery disk.####LAPTOP#USABILITY####2
+defective software.####SOFTWARE#QUALITY####2
+returned it to walmart.####LAPTOP#GENERAL####2
+I would like to have volume buttons rather than the adjustment that is on the front.####LAPTOP#DESIGN_FEATURES####2
+I also had a problem with the touchpad that caused the mouse pointer to jump all over the screen.####MOUSE#OPERATION_PERFORMANCE####2
+I went to Toshiba online help and found some suggestions to fix it.####SUPPORT#QUALITY####1
+One of them seems to have worked.####SUPPORT#QUALITY####1
+Its a good laptop for its value.####LAPTOP#GENERAL####1
+Its a good laptop for its value.####LAPTOP#PRICE####0
+Registration/1st use is easy.####LAPTOP#USABILITY####1
+Features like the font are very block-like and old school.####LAPTOP#DESIGN_FEATURES####2
+Would like more trendy, high tech features.####LAPTOP#DESIGN_FEATURES####2
+The start menu is not the easiest thing to navigate due to the stacking.####OS#USABILITY####2
+Keys stick periodically and I havent had the laptop for 45 days yet.####KEYBOARD#OPERATION_PERFORMANCE####2
+Keys stick periodically and I havent had the laptop for 45 days yet.####KEYBOARD#QUALITY####2
+Came fully loaded - good.####LAPTOP#DESIGN_FEATURES####1
+Seems to slow down occassionally but can run many applications (ie Internet tabs, programs, etc) simultaneously.####LAPTOP#OPERATION_PERFORMANCE####1
+I'm really impressed with the quality and performance for the price of the computer.####LAPTOP#QUALITY####1
+I'm really impressed with the quality and performance for the price of the computer.####LAPTOP#OPERATION_PERFORMANCE####1
+I'm really impressed with the quality and performance for the price of the computer.####LAPTOP#PRICE####0
+Graphics are clean and sharp, internet interfaces are seamless.####GRAPHICS#QUALITY####1
+Graphics are clean and sharp, internet interfaces are seamless.####LAPTOP#CONNECTIVITY####1
+Only issue is that it is a little slow, and I'm fixing that by adding more RAM.####LAPTOP#OPERATION_PERFORMANCE####2
+Only issue is that it is a little slow, and I'm fixing that by adding more RAM.####MEMORY#DESIGN_FEATURES####0
+Sound card is limited though.####MULTIMEDIA_DEVICES#DESIGN_FEATURES####2
+The laptop is very lightweight, can easily carry around in a knapsack full of text books and it barely adds any weight.####LAPTOP#DESIGN_FEATURES####1
+The laptop is very lightweight, can easily carry around in a knapsack full of text books and it barely adds any weight.####LAPTOP#PORTABILITY####1
+It is small enough to fit in one of my purses!####LAPTOP#DESIGN_FEATURES####1
+Windows 7 Starter is terrific (no you can't change the background) but I don't need to, I use it just for school work.####OS#GENERAL####1
+Windows 7 Starter is terrific (no you can't change the background) but I don't need to, I use it just for school work.####OS#USABILITY####0
+The battery life is amazing, the versitility is outstanding.####BATTERY#OPERATION_PERFORMANCE####1
+The battery life is amazing, the versitility is outstanding.####LAPTOP#USABILITY####1
+The ease of set up was terrific.####LAPTOP#USABILITY####1
+I was even able to uninstall McAffe and install one of my Symantec licenses with a no issues whatsoever.####LAPTOP#USABILITY####1
+I had to adjust my mousepad sensitivity, because it is very sensitive.####MOUSE#OPERATION_PERFORMANCE####2
+Keyboard is great, very quiet for all the typing that I do.####KEYBOARD#GENERAL####1
+Keyboard is great, very quiet for all the typing that I do.####KEYBOARD#QUALITY####1
+Screen is crystal clear, yes it's small - but it's a netbook!####DISPLAY#QUALITY####1
+Screen is crystal clear, yes it's small - but it's a netbook!####DISPLAY#DESIGN_FEATURES####0
+Awesome laptop and the perfect size to carry around in college.####LAPTOP#GENERAL####1
+Awesome laptop and the perfect size to carry around in college.####LAPTOP#DESIGN_FEATURES####1
+Awesome laptop and the perfect size to carry around in college.####LAPTOP#PORTABILITY####1
+I couldn't believe how long the battery lasted on a single charge.####BATTERY#OPERATION_PERFORMANCE####1
+I loaded windows 7 via Bootcamp and it works flawlessly!####OS#OPERATION_PERFORMANCE####1
+Simply amazing computer!!####LAPTOP#GENERAL####1
+I really like the Mac 15.4in. Notebook, but its very pricey.####LAPTOP#GENERAL####1
+I really like the Mac 15.4in. Notebook, but its very pricey.####LAPTOP#PRICE####2
+Love the graphics, awesome programs (including Garageband), and really cool default background.####GRAPHICS#GENERAL####1
+Love the graphics, awesome programs (including Garageband), and really cool default background.####LAPTOP#DESIGN_FEATURES####1
+Love the graphics, awesome programs (including Garageband), and really cool default background.####SOFTWARE#GENERAL####1
+But, like I said before, the only reason I don't currently have a Mac laptop is because all of their laptops are too pricey.####LAPTOP#PRICE####2
+Waiting for the i7 was well worth it, great value for the price.####LAPTOP#GENERAL####1
+Waiting for the i7 was well worth it, great value for the price.####LAPTOP#PRICE####0
+Bigger HD, better graphics card, and a bid HD.####HARD_DISC#DESIGN_FEATURES####1
+Bigger HD, better graphics card, and a bid HD.####GRAPHICS#GENERAL####1
+There is nothing to complain about the system.####LAPTOP#GENERAL####1
+I have used PC's and converting to this MacBook Pro was easy.####LAPTOP#USABILITY####1
+If you have the money I suggest going for the i7.####LAPTOP#GENERAL####1
+I occassionaly use it for work via VPN and it has not given me any problems.####LAPTOP#MISCELLANEOUS####1
+The screen is nice and the images comes very clear, the keyboard and the fit just feels right.####DISPLAY#GENERAL####1
+The screen is nice and the images comes very clear, the keyboard and the fit just feels right.####DISPLAY#QUALITY####1
+The screen is nice and the images comes very clear, the keyboard and the fit just feels right.####KEYBOARD#QUALITY####1
+The screen is nice and the images comes very clear, the keyboard and the fit just feels right.####LAPTOP#DESIGN_FEATURES####1
+I consider myself an average user and this computer serves my need.####LAPTOP#GENERAL####1
+The price is another driving influence that made me purchase this laptop.####LAPTOP#PRICE####1
+I'ts nice to have the higher-end laptops, but this fits my budget and the features I need.####LAPTOP#QUALITY####1
+I'ts nice to have the higher-end laptops, but this fits my budget and the features I need.####LAPTOP#DESIGN_FEATURES####1
+I'ts nice to have the higher-end laptops, but this fits my budget and the features I need.####LAPTOP#PRICE####1
+I normally dont participate in reviews/surveys but this laptop has not given me any problems and hope to share my thoughts...####LAPTOP#GENERAL####1
+another satisfied customer.####LAPTOP#GENERAL####1
+The apple MacBook is the best investment that I have ever made.####LAPTOP#GENERAL####1
+The newer MacBook that I have purchased is one of the best computers.####LAPTOP#GENERAL####1
+I am a college student and it has been very useful.####LAPTOP#MISCELLANEOUS####1
+It has all the features that are necessary for college and if not they are able to be added onto the computer.####LAPTOP#DESIGN_FEATURES####1
+It has all the features that are necessary for college and if not they are able to be added onto the computer.####LAPTOP#USABILITY####1
+It has all the features that are necessary for college and if not they are able to be added onto the computer.####LAPTOP#MISCELLANEOUS####1
+It has a lot of memory and a great battery life.####MEMORY#DESIGN_FEATURES####1
+It has a lot of memory and a great battery life.####BATTERY#OPERATION_PERFORMANCE####1
+It is sleek and lightweight and charges quickly when needed.####LAPTOP#DESIGN_FEATURES####1
+It is sleek and lightweight and charges quickly when needed.####BATTERY#OPERATION_PERFORMANCE####1
+Its white color is stylish for college students and easy to take to carry and take to classes.####LAPTOP#DESIGN_FEATURES####1
+Its white color is stylish for college students and easy to take to carry and take to classes.####LAPTOP#PORTABILITY####1
+Iphoto is great for adding pictures right to facebook and other social networking sites.####SOFTWARE#MISCELLANEOUS####1
+The internet capabilities are also very strong and picks up signals very easily.####LAPTOP#CONNECTIVITY####1
+I have never had to shut down the computer unexpectedly and the computer has never froze on me.####LAPTOP#OPERATION_PERFORMANCE####1
+The screen is bright and vivid and the keyboard is very easy to use, very important for use quick typers.####DISPLAY#QUALITY####1
+The screen is bright and vivid and the keyboard is very easy to use, very important for use quick typers.####KEYBOARD#USABILITY####1
+Overall, this is a wonderful computer and definitly worth the purchase!####LAPTOP#GENERAL####1
+The graphics are stunning.####GRAPHICS#GENERAL####1
+It's wonderful for computer gaming.####LAPTOP#MISCELLANEOUS####1
+I would definitely suggest this laptop!####LAPTOP#GENERAL####1
+It is very user friendly and not hard to figure out at all.####LAPTOP#USABILITY####1
+It has many great programs, such as ILife, iPhotos and others.####LAPTOP#DESIGN_FEATURES####1
+It has many great programs, such as ILife, iPhotos and others.####SOFTWARE#GENERAL####1
+iLife is easily compatible with Microsoft Office so you can send and receive files from a PC.####SOFTWARE#USABILITY####1
+In addition, all the design tools on Pages and Keynotes makes it much easier to create professional looking documents and presentations.####SOFTWARE#DESIGN_FEATURES####1
+In addition, all the design tools on Pages and Keynotes makes it much easier to create professional looking documents and presentations.####SOFTWARE#USABILITY####1
+This comes in very handy for me as an educator.####SOFTWARE#USABILITY####1
+iPhotos is an excellent program for storing and organizing photos.####SOFTWARE#MISCELLANEOUS####1
+It allows you to automatically upload photos to your Facebook account with one click.####SOFTWARE#USABILITY####1
+In addition, there is photo detection software that will allow you to group all the photos together based upon the people in the picture.####SOFTWARE#DESIGN_FEATURES####1
+If you are looking for something reliable, this is the laptop for you.####LAPTOP#QUALITY####1
+This computer was awful!####LAPTOP#GENERAL####2
+I will never buy another computer from Dell ever again do to how awful it worked and how I was treated by the company.####COMPANY#GENERAL####2
+I will never buy another computer from Dell ever again do to how awful it worked and how I was treated by the company.####LAPTOP#OPERATION_PERFORMANCE####2
+I will never buy another computer from Dell ever again do to how awful it worked and how I was treated by the company.####SUPPORT#QUALITY####2
+The computer first started malfunctioning 3 months after purchasing it.####LAPTOP#OPERATION_PERFORMANCE####2
+The computer first started malfunctioning 3 months after purchasing it.####LAPTOP#QUALITY####2
+It does not keep internet signals no matter where you bring it.####LAPTOP#CONNECTIVITY####2
+The system it comes with does not work properly, so when trying to fix the problems with it it started not working at all.####OS#QUALITY####2
+The system it comes with does not work properly, so when trying to fix the problems with it it started not working at all.####OS#OPERATION_PERFORMANCE####2
+When calling Dell for help, reurn, or a new computer they were not useful and left it up to myself to figure out what to do with it.####SUPPORT#QUALITY####2
+One year of trying to fix the computer by myself, with help of friends, and even help from computer experts I have given up on trying to fix it.####LAPTOP#QUALITY####2
+This computer was awful, I would never recomend it to another person.####LAPTOP#GENERAL####2
+Those moments in thime where you want to throw something against the wall?####LAPTOP#GENERAL####2
+Yeah, I wanted to throw that lap top out the window and light it on fire.####LAPTOP#GENERAL####2
+That's how frustrating it was.####LAPTOP#GENERAL####2
+It is well worth the money it cost, Very good investment.####LAPTOP#GENERAL####1
+It is well worth the money it cost, Very good investment.####LAPTOP#PRICE####1
+The new Macbook Pro 15 inch i7 is nothing short of amazing.####LAPTOP#GENERAL####1
+The speed is incredible and I am more than satisfied.####LAPTOP#OPERATION_PERFORMANCE####1
+Windows Vista makes this computer almost unusable for online service.####OS#GENERAL####2
+Windows Vista makes this computer almost unusable for online service.####LAPTOP#USABILITY####2
+I've tried going back to XL but there still problems.####LAPTOP#USABILITY####2
+The technical service for dell is so 3rd world it might as well not even bother.####SUPPORT#QUALITY####2
+Just a bunch of idiots who's English as a 5th language is forced at best.####SUPPORT#QUALITY####2
+I'm all for saving money but Dell needs to step it up.####COMPANY#GENERAL####2
+Good price.####LAPTOP#PRICE####1
+Basic computer.####LAPTOP#MISCELLANEOUS####0
+Didn't work when shipped from Walmart.com but went into a store and exchanged for a working laptop (same make/model).####LAPTOP#MISCELLANEOUS####0
+It has worked fine.####LAPTOP#OPERATION_PERFORMANCE####1
+Handles all my basic media needs easily.####LAPTOP#MISCELLANEOUS####1
+Can listen to my music and watch my videos with ease and with a great display.####DISPLAY#GENERAL####1
+Can listen to my music and watch my videos with ease and with a great display.####LAPTOP#USABILITY####1
+It is speedy when connected wirelessly to any network regardless if the connection is weak or not.####LAPTOP#OPERATION_PERFORMANCE####1
+It is speedy when connected wirelessly to any network regardless if the connection is weak or not.####LAPTOP#CONNECTIVITY####1
+It's a great prodcut to handle basic computing needs.####LAPTOP#MISCELLANEOUS####1
+It has served my needs quite nicely for the most part.####LAPTOP#GENERAL####1
+The 2 GB of RAM is plenty, able to run Windows 7 and at least 2 or 3 other programs with next to no slowdown.####MEMORY#DESIGN_FEATURES####1
+The 2 GB of RAM is plenty, able to run Windows 7 and at least 2 or 3 other programs with next to no slowdown.####LAPTOP#OPERATION_PERFORMANCE####1
+My one complaint with this laptop is that I've noticed an electronic fuzz sound coming out of the headphone jack when headphones are plugged in.####PORTS#QUALITY####2
+This is likely due to poor grounding and isolation between the components, and I'm hoping that it can be fixed with a ground loop isolator, but I still expected better product quality for this price range.####HARDWARE#QUALITY####2
+This is likely due to poor grounding and isolation between the components, and I'm hoping that it can be fixed with a ground loop isolator, but I still expected better product quality for this price range.####LAPTOP#PRICE####2
+Other than that, I would recommend this to someone in need of a cheap laptop with semi-decent gaming capabilities.####LAPTOP#PRICE####1
+Other than that, I would recommend this to someone in need of a cheap laptop with semi-decent gaming capabilities.####LAPTOP#MISCELLANEOUS####0
+Let me start with the good:So awesome.####LAPTOP#GENERAL####1
+Great OS, fabulous improvements to the existing line bumping up the processor speed and adding the thunderbolt port.####OS#GENERAL####1
+Great OS, fabulous improvements to the existing line bumping up the processor speed and adding the thunderbolt port.####CPU#OPERATION_PERFORMANCE####1
+Great OS, fabulous improvements to the existing line bumping up the processor speed and adding the thunderbolt port.####LAPTOP#DESIGN_FEATURES####1
+This one has had the same effect.####LAPTOP#GENERAL####1
+The improvements to the OS have been relatively gradual, but substantive.####OS#GENERAL####1
+The Unibody construction is solid, sleek and beautiful.####LAPTOP#DESIGN_FEATURES####1
+The Unibody construction is solid, sleek and beautiful.####LAPTOP#QUALITY####1
+It is everything I'd hoped it would be from a look and feel standpoint, but somehow a bit more sturdy.####LAPTOP#DESIGN_FEATURES####1
+It is everything I'd hoped it would be from a look and feel standpoint, but somehow a bit more sturdy.####LAPTOP#QUALITY####1
+For the not so good, I got the stock screen - which is VERY glossy.####DISPLAY#MISCELLANEOUS####2
+For the not so good, I got the stock screen - which is VERY glossy.####DISPLAY#QUALITY####2
+It's still beautiful and has better color reproduction than I could ever expect from a notebook.####DISPLAY#DESIGN_FEATURES####1
+It's still beautiful and has better color reproduction than I could ever expect from a notebook.####DISPLAY#QUALITY####1
+The reflectiveness of the display is only a minor inconvenience if you work in a controlled-lighting environment like me (I prefer it dark) or if you can crank up the brightness.####DISPLAY#QUALITY####0
+The reflectiveness of the display is only a minor inconvenience if you work in a controlled-lighting environment like me (I prefer it dark) or if you can crank up the brightness.####DISPLAY#USABILITY####0
+The statement of 7 hour battery life is not just mere exaggeration -- it's a lie.####BATTERY#OPERATION_PERFORMANCE####2
+I challenge anyone to show proof that through anywhere near normal use can get more than 2.5 hrs out of it.####BATTERY#OPERATION_PERFORMANCE####2
+The first full charge of this battery got me only about 2 full hours.####BATTERY#OPERATION_PERFORMANCE####2
+Enabling the battery timer is useless.####BATTERY#MISCELLANEOUS####2
+The "Time remaining" goes from 4 hours plus to less than 2 hours over the span of about 10 minutes.####BATTERY#MISCELLANEOUS####2
+It's so bad that I'm thinking I only got half a battery or something.####BATTERY#MISCELLANEOUS####2
+I know what 7 hrs of battery looks like.####BATTERY#OPERATION_PERFORMANCE####2
+My only other complaint is that it gets really hot.:-)####LAPTOP#QUALITY####1
+If you buy this - don't go into it expecting 7 hrs of battery life, and you'll be perfectly satisfied.####BATTERY#OPERATION_PERFORMANCE####2
+If you buy this - don't go into it expecting 7 hrs of battery life, and you'll be perfectly satisfied.####LAPTOP#GENERAL####1
+The pro is a great product, I wish that the 13 inch models came with the Intel i processors and had a more comfortable edge (the edges hurt my wrists).####LAPTOP#GENERAL####1
+The pro is a great product, I wish that the 13 inch models came with the Intel i processors and had a more comfortable edge (the edges hurt my wrists).####CPU#MISCELLANEOUS####0
+The pro is a great product, I wish that the 13 inch models came with the Intel i processors and had a more comfortable edge (the edges hurt my wrists).####LAPTOP#DESIGN_FEATURES####2
+The pro is a great product, I wish that the 13 inch models came with the Intel i processors and had a more comfortable edge (the edges hurt my wrists).####LAPTOP#USABILITY####2
+Other than that its a great performing machine and well meets all my needs and more.####LAPTOP#OPERATION_PERFORMANCE####1
+Other than that its a great performing machine and well meets all my needs and more.####LAPTOP#GENERAL####1
+Great product by Apple with the new great looking design.####LAPTOP#GENERAL####1
+Great product by Apple with the new great looking design.####LAPTOP#DESIGN_FEATURES####1
+Great product by Apple with the new great looking design.####COMPANY#GENERAL####1
+I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!)only to get another "HP/Compaq" piece of crap.####HARD_DISC#QUALITY####2
+I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!)only to get another "HP/Compaq" piece of crap.####MOTHERBOARD#QUALITY####2
+I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!)only to get another "HP/Compaq" piece of crap.####OPTICAL_DRIVES#QUALITY####2
+I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!)only to get another "HP/Compaq" piece of crap.####SUPPORT#QUALITY####2
+I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!)only to get another "HP/Compaq" piece of crap.####LAPTOP#QUALITY####2
+It was slow, locked up, and also had hardware replaced after only 2 months!####LAPTOP#OPERATION_PERFORMANCE####2
+It was slow, locked up, and also had hardware replaced after only 2 months!####HARDWARE#QUALITY####2
+So, buyers beware!####LAPTOP#GENERAL####2
+It is made better, thicker, and all out tough!####LAPTOP#QUALITY####1
+It is made better, thicker, and all out tough!####LAPTOP#DESIGN_FEATURES####1
+I droped this once from thetable when my baby girl grabed me one day and IT is still working with NO issues!####LAPTOP#QUALITY####1
+I love the easy to see screen, and It works well for work, persoal or just play.####DISPLAY#USABILITY####1
+I love the easy to see screen, and It works well for work, persoal or just play.####LAPTOP#MISCELLANEOUS####1
+I tell everyone I see out looking to get this or another Toshiba.####LAPTOP#GENERAL####1
+I tell everyone I see out looking to get this or another Toshiba.####COMPANY#GENERAL####1
+My friends or children use that when they need to borrow the Net =) When I out grow this Meaning when its old and my oldest child is ready for one she will get this one ANd I will be buying only TOSHIBA!####COMPANY#GENERAL####1
+I just love this lap top, I just wish it were all silver or they had all black.####LAPTOP#GENERAL####1
+I just love this lap top, I just wish it were all silver or they had all black.####LAPTOP#DESIGN_FEATURES####0
+That is my only complaint!####LAPTOP#DESIGN_FEATURES####2
+LOVE THIS LAPTOP WONDERFUL PRICE FOR WHAT YOU GET!####LAPTOP#GENERAL####1
+LOVE THIS LAPTOP WONDERFUL PRICE FOR WHAT YOU GET!####LAPTOP#PRICE####1
+WOULD PAY MORE FOR IT IF I HAD TOO!####LAPTOP#GENERAL####1
+WOULD PAY MORE FOR IT IF I HAD TOO!####LAPTOP#PRICE####1
+I recently purchased the mini and absolutely love it!####LAPTOP#GENERAL####1
+It meets all my needs for work and pleasure while traveling.####LAPTOP#MISCELLANEOUS####1
+It meets all my needs for work and pleasure while traveling.####LAPTOP#PORTABILITY####1
+I am totally satisfied with my little toshie!####LAPTOP#GENERAL####1
+From the moment I opened the box to the present it has been a great joy.####LAPTOP#GENERAL####1
+It is always reliable, never bugged and responds well.####LAPTOP#QUALITY####1
+It is always reliable, never bugged and responds well.####LAPTOP#OPERATION_PERFORMANCE####1
+I love the operating system and the preloaded software.####OS#GENERAL####1
+I love the operating system and the preloaded software.####SOFTWARE#GENERAL####1
+This machine delivers.####LAPTOP#OPERATION_PERFORMANCE####1
+It is also extremely pleasing to the eyes without looking too much like an Alienware gaming machine.####LAPTOP#DESIGN_FEATURES####1
+It is a bit heavy.####LAPTOP#DESIGN_FEATURES####2
+It would be a load on long trips where a lot of walking is required.####LAPTOP#PORTABILITY####2
+Had some trouble finding a case that it would fit in.####LAPTOP#DESIGN_FEATURES####2
+This is an over-sized, 18-inch laptop.####LAPTOP#DESIGN_FEATURES####2
+It wouldn't fit in most 17-inch bags.####LAPTOP#PORTABILITY####2
+I was disappointed when I realized that the keyboard doesn't light up on this model.####KEYBOARD#DESIGN_FEATURES####2
+It also does not have bluetooth.####LAPTOP#DESIGN_FEATURES####2
+You'll need to upgrade and pay a little more for them.####LAPTOP#DESIGN_FEATURES####2
+I was looking too closely at the other performance specs and while comparing, I took it for granted that these features were standard.####LAPTOP#DESIGN_FEATURES####2
+Overall, still a very nice machine.####LAPTOP#GENERAL####1
+Boots up fast and runs great!####LAPTOP#OPERATION_PERFORMANCE####1
+I'm pleased.####LAPTOP#GENERAL####1
+The acer one compuer is a great computer.####LAPTOP#GENERAL####1
+I didn't want to buy a generic brand computer but it is really nice.####LAPTOP#GENERAL####1
+I didn't want to buy a generic brand computer but it is really nice.####COMPANY#GENERAL####0
+Its fast, has High definition quality in the videos.####LAPTOP#OPERATION_PERFORMANCE####1
+Its fast, has High definition quality in the videos.####DISPLAY#QUALITY####1
+The pictures are clear as can be.####DISPLAY#QUALITY####1
+If I had to buy another computer, I would most definetly buy an acer one computer.####LAPTOP#GENERAL####1
+If I had to buy another computer, I would most definetly buy an acer one computer.####COMPANY#GENERAL####1
+Heck, if I had enough ' money, I would but it as a gift for someone.####LAPTOP#GENERAL####1
+Im glad that it has such great features in it.####LAPTOP#DESIGN_FEATURES####1
+It also came with a built it web cam which is great because I can see an communicate with my family members back home.####LAPTOP#DESIGN_FEATURES####1
+Clear picture on it and everything.####DISPLAY#QUALITY####1
+The one down side to it is that when I play a certin game on here, it tends to freeze up sometimes, but thats the only bad thing about this computer.####LAPTOP#OPERATION_PERFORMANCE####2
+The one down side to it is that when I play a certin game on here, it tends to freeze up sometimes, but thats the only bad thing about this computer.####LAPTOP#GENERAL####1
+The acer one computer that I bought is 17 ince screen and its hard to find lap top bags for it, but I like the big screen on it.####DISPLAY#DESIGN_FEATURES####1
+The acer one computer that I bought is 17 ince screen and its hard to find lap top bags for it, but I like the big screen on it.####LAPTOP#PORTABILITY####2
+Its good for playing my apps on Facebook or watching movies.####LAPTOP#MISCELLANEOUS####1
+Im very happy with this computer!####LAPTOP#GENERAL####1

@@ -1,0 +1,401 @@
+this little place has a cute interior decor and affordable city prices.####AMBIENCE#GENERAL####1
+this little place has a cute interior decor and affordable city prices.####RESTAURANT#PRICES####1
+the pad se ew chicken was delicious, however the pad thai was far too oily.####FOOD#QUALITY####1
+the pad se ew chicken was delicious, however the pad thai was far too oily.####FOOD#QUALITY####2
+Have eaten at Ginger House several times, and it's always good.####RESTAURANT#GENERAL####1
+The fried dumplings are GREAT!####FOOD#QUALITY####1
+Finally a reliable Chinese restaurant!####RESTAURANT#GENERAL####1
+This place would be so much better served by being run by a group that actually understands customer service.####SERVICE#GENERAL####2
+They are not helpful in the least and will give you the grand run around so by the time the event date rolls around you will not only regret chosing this place, but also become hostile!####SERVICE#GENERAL####2
+Nobody at this restaurant will give firm answers about anything and in the end, not one person takes responsibility for anything.####SERVICE#GENERAL####2
+Terrible, terrible management - deserves to be shut-down.####SERVICE#GENERAL####2
+Terrible, terrible management - deserves to be shut-down.####RESTAURANT#GENERAL####2
+Never fails to please.####RESTAURANT#GENERAL####1
+delicious bagels, especially when right out of the oven.####FOOD#QUALITY####1
+Spreads and toppings are great - though a bit pricey.####FOOD#QUALITY####1
+Spreads and toppings are great - though a bit pricey.####FOOD#QUALITY####1
+Spreads and toppings are great - though a bit pricey.####FOOD#PRICES####2
+Spreads and toppings are great - though a bit pricey.####FOOD#PRICES####2
+Service is fast and friendly.####SERVICE#GENERAL####1
+Only drawback - they won't toast your bagel, and they don't make eggs for the bagel.####SERVICE#GENERAL####2
+But that is highly forgivable.####RESTAURANT#MISCELLANEOUS####1
+The food is decent at best, and the ambience, well, it's a matter of opinion, some may consider it to be a sweet thing, I thought it was just annoying.####FOOD#QUALITY####2
+The food is decent at best, and the ambience, well, it's a matter of opinion, some may consider it to be a sweet thing, I thought it was just annoying.####AMBIENCE#GENERAL####2
+If celebrities make you sweat, then your in for a ride, but if your like most around these parts then you'll just yawn and wonder whats with all the hype.####RESTAURANT#MISCELLANEOUS####2
+Rao is a good restaurant, but it's nothing special.####RESTAURANT#GENERAL####0
+But after last night, Spice Grill is the only place I'm eating indian cuisine.####FOOD#QUALITY####1
+You must try the shrimp appetizers.####FOOD#QUALITY####1
+Even my Indian friend couldn't believe how good and tasty everything was.####FOOD#QUALITY####1
+This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.####AMBIENCE#GENERAL####1
+This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.####SERVICE#GENERAL####1
+Great food, great prices, great service.####FOOD#QUALITY####1
+Great food, great prices, great service.####RESTAURANT#PRICES####1
+Great food, great prices, great service.####SERVICE#GENERAL####1
+If you are looking for a good quality, cheap eats - this is the place.####FOOD#QUALITY####1
+If you are looking for a good quality, cheap eats - this is the place.####FOOD#PRICES####1
+it's a perfect place to have a amanzing indian food.####FOOD#QUALITY####1
+I really loved the different and inovated touch that's the cheff gives to the food.####FOOD#STYLE_OPTIONS####1
+also it's great to have dinner in a very romantic and confortable place, the service it's just perfect...they're so frendly that we never want to live the place!####AMBIENCE#GENERAL####1
+also it's great to have dinner in a very romantic and confortable place, the service it's just perfect...they're so frendly that we never want to live the place!####SERVICE#GENERAL####1
+Their bagels are fine, but they are a little overcooked, and not really a 'special' bagel experience.####FOOD#QUALITY####2
+Great bagels made the old-fashioned way.####FOOD#QUALITY####1
+Great bagels made the old-fashioned way.####FOOD#STYLE_OPTIONS####1
+Drawbacks: service is slow and they don't toast!####SERVICE#GENERAL####2
+The food was absolutely amazing!!####FOOD#QUALITY####1
+The baked clams octopus we shared as appetizers were the best we've ever had!! ####FOOD#QUALITY####1
+The lamb was tender so full of flavor, the dessert was divine!!####FOOD#QUALITY####1
+The lamb was tender so full of flavor, the dessert was divine!!####FOOD#QUALITY####1
+The waiter was attentive.####SERVICE#GENERAL####1
+The place itself is beautiful the bar scene seems to be happening.####AMBIENCE#GENERAL####1
+The place itself is beautiful the bar scene seems to be happening.####AMBIENCE#GENERAL####1
+I was pleasantly suprised.####RESTAURANT#GENERAL####1
+The food was exceptional.####FOOD#QUALITY####1
+I choose to go with one of the special, the braised lamb shank in red wine, which was excellent.####FOOD#QUALITY####1
+The service was friendly and the atmosphere was casual.####SERVICE#GENERAL####1
+The service was friendly and the atmosphere was casual.####AMBIENCE#GENERAL####0
+The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal####FOOD#QUALITY####1
+The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal####AMBIENCE#GENERAL####2
+Volare virgins or weekly regulars, everyone gets treated the same and you can't ask for more than that when the service is this friendly.####SERVICE#GENERAL####1
+The restaurant has a Family feel, not least with regard to the portions which are enormous; the veal alone could have single-handedly solved third world famine.####AMBIENCE#GENERAL####1
+The restaurant has a Family feel, not least with regard to the portions which are enormous; the veal alone could have single-handedly solved third world famine.####FOOD#STYLE_OPTIONS####1
+The restaurant has a Family feel, not least with regard to the portions which are enormous; the veal alone could have single-handedly solved third world famine.####FOOD#STYLE_OPTIONS####1
+The anti-pasta was excellent, especially the calamari, as were the filling pasta mains.####FOOD#QUALITY####1
+The anti-pasta was excellent, especially the calamari, as were the filling pasta mains.####FOOD#QUALITY####1
+The anti-pasta was excellent, especially the calamari, as were the filling pasta mains.####FOOD#QUALITY####1
+The anti-pasta was excellent, especially the calamari, as were the filling pasta mains.####FOOD#STYLE_OPTIONS####1
+The wine list is extensive and can easily hike up an otherwise reasonably priced meal.####DRINKS#STYLE_OPTIONS####1
+The wine list is extensive and can easily hike up an otherwise reasonably priced meal.####FOOD#PRICES####1
+Still, any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house...####RESTAURANT#PRICES####0
+Still, any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house...####DRINKS#STYLE_OPTIONS####1
+Fantastic place.####RESTAURANT#GENERAL####1
+Cute and decorative.####AMBIENCE#GENERAL####1
+A pleasant surprise.####RESTAURANT#GENERAL####1
+Go there to relax and feel like your somewhere else.####AMBIENCE#GENERAL####1
+Lucky Strike is a great casual place to just grab a bite to eat.####RESTAURANT#GENERAL####1
+Great food, great decor, great service.####FOOD#QUALITY####1
+Great food, great decor, great service.####AMBIENCE#GENERAL####1
+Great food, great decor, great service.####SERVICE#GENERAL####1
+I recommend it!####RESTAURANT#GENERAL####1
+This is the perfect spot for meeting friends, having lunch, dinner, pre-theatre or after-theatre drinks!####RESTAURANT#MISCELLANEOUS####1
+(Always ask the bartender for the SEASONAL beer!!!####DRINKS#QUALITY####1
+Guaranteed to be a tasty experience!)####DRINKS#QUALITY####1
+Excellent spot for holiday get togethers with co-workers or friends that you haven't seen in a while.####RESTAURANT#MISCELLANEOUS####1
+I have been doing all of the above at the Heartland Brewery for over 5 years now and I HAVE NEVER BEEN DISAPPOINTED!####RESTAURANT#GENERAL####1
+All the people that I bring there go back on their own and bring THEIR friends!####RESTAURANT#MISCELLANEOUS####1
+Go there once and oh yes...you will go back...you will...####RESTAURANT#GENERAL####1
+What a great place!####RESTAURANT#GENERAL####1
+Not the typical NYC gimmick theme restaurant.####AMBIENCE#GENERAL####1
+A cool bar with great food, and tons of excellent beer.####AMBIENCE#GENERAL####1
+A cool bar with great food, and tons of excellent beer.####FOOD#QUALITY####1
+A cool bar with great food, and tons of excellent beer.####DRINKS#QUALITY####1
+A cool bar with great food, and tons of excellent beer.####DRINKS#STYLE_OPTIONS####1
+And even with it's Pub atmosphere they were great to my kids too!####SERVICE#GENERAL####1
+Loved it!####RESTAURANT#GENERAL####1
+The shrimp scampi was excellent and the antipasti were plentiful.####FOOD#QUALITY####1
+The shrimp scampi was excellent and the antipasti were plentiful.####FOOD#STYLE_OPTIONS####1
+It is expensive but well worth the money.####RESTAURANT#PRICES####2
+It is expensive but well worth the money.####RESTAURANT#GENERAL####1
+If you venture off the island of Manhattan and can't seem to find a great Italian restaurant, drive to Corona.####RESTAURANT#GENERAL####1
+The only thing more wonderful than the food (which is exceptional) is the service.####FOOD#QUALITY####1
+The only thing more wonderful than the food (which is exceptional) is the service.####SERVICE#GENERAL####1
+The only thing the waiters don't do for you is wipe your chin when you leave.####SERVICE#GENERAL####1
+Wonderful at holiday time.####RESTAURANT#MISCELLANEOUS####1
+Cozy romantic atomosphere with only around 15 tables at most.####AMBIENCE#GENERAL####1
+Service was very prompt but slightly rushed.####SERVICE#GENERAL####1
+Food was very good, but not what I would consider out of this world.####FOOD#QUALITY####0
+Go here for a romantic dinner but not for an all out wow dining experience.####AMBIENCE#GENERAL####1
+Go here for a romantic dinner but not for an all out wow dining experience.####RESTAURANT#MISCELLANEOUS####2
+My friend from Milan and myself were pleasantly surprised when we arrived and everyone spoke italian.####RESTAURANT#MISCELLANEOUS####1
+Too bad the food wasn't of the same heritage.####FOOD#QUALITY####2
+The porcini mushroom pasta special was tasteless, so was the seafood tagliatelle.####FOOD#QUALITY####2
+The porcini mushroom pasta special was tasteless, so was the seafood tagliatelle.####FOOD#QUALITY####2
+A real dissapointment.####FOOD#QUALITY####2
+But that wasn't the icing on the cake: a tiramisu that resembled nothing I have ever had.####FOOD#QUALITY####2
+They should have called it mascarpone with chocolate chips-good but a far cry from what the name implies.####FOOD#QUALITY####2
+Priced at upper intermediate range.####RESTAURANT#PRICES####2
+I really liked this place.####RESTAURANT#GENERAL####1
+Everything I had was good, and I'm a eater.####FOOD#QUALITY####1
+It was pretty inexpensive too.####RESTAURANT#PRICES####1
+This place has the best Chinese style BBQ ribs in the city.####FOOD#QUALITY####1
+This place has the best Chinese style BBQ ribs in the city.####FOOD#STYLE_OPTIONS####1
+I also recommend the rice dishes or the different varieties of congee (rice porridge).####FOOD#QUALITY####1
+I also recommend the rice dishes or the different varieties of congee (rice porridge).####FOOD#QUALITY####1
+It's great to go for a quick lunch either alone or with a friend.####RESTAURANT#MISCELLANEOUS####1
+It's definately not a place to go if you want to impress someone.####RESTAURANT#MISCELLANEOUS####2
+However, if you want great food at a great price and don't mind the decor, you can't beat this place.####FOOD#QUALITY####1
+However, if you want great food at a great price and don't mind the decor, you can't beat this place.####AMBIENCE#GENERAL####0
+However, if you want great food at a great price and don't mind the decor, you can't beat this place.####FOOD#PRICES####1
+Quick and friendly service.####SERVICE#GENERAL####1
+This is one of the best comfort food places in the city.####RESTAURANT#GENERAL####1
+It's somewhere you can eat and be happy.####RESTAURANT#GENERAL####1
+When you're sitting in their main dining room (which has a spectacular, hand-painted high ceiling) you'd never know there was a world outside.####AMBIENCE#GENERAL####1
+When you're sitting in their main dining room (which has a spectacular, hand-painted high ceiling) you'd never know there was a world outside.####AMBIENCE#GENERAL####1
+The food is wonderful, tasty and filling, and the service is professional and friendly.####FOOD#QUALITY####1
+The food is wonderful, tasty and filling, and the service is professional and friendly.####FOOD#STYLE_OPTIONS####1
+The food is wonderful, tasty and filling, and the service is professional and friendly.####SERVICE#GENERAL####1
+I can't wait for summer, when they serve outside on their gigantic patio.####AMBIENCE#GENERAL####1
+I recently tried Suan and I thought that it was great.####RESTAURANT#GENERAL####1
+This little place definitely exceeded my expectations and you sure get a lot of food for your money.####FOOD#STYLE_OPTIONS####1
+This little place definitely exceeded my expectations and you sure get a lot of food for your money.####RESTAURANT#GENERAL####1
+This little place definitely exceeded my expectations and you sure get a lot of food for your money.####FOOD#PRICES####1
+The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.####SERVICE#GENERAL####1
+The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.####FOOD#QUALITY####1
+The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.####FOOD#QUALITY####1
+I have to say that I am pleasantly suprised and I will most likely stop in again if I am in the neighborhood.####RESTAURANT#GENERAL####1
+They all know you.####SERVICE#GENERAL####1
+Good food.####FOOD#QUALITY####1
+Good drink.####DRINKS#QUALITY####1
+How do you rate home?####RESTAURANT#MISCELLANEOUS####1
+I have never had cheescake like this.####FOOD#QUALITY####1
+I thought I had died and gone to heaven.####FOOD#QUALITY####1
+Great spot, whether looking for a couple of drinks or quiet dinner.####RESTAURANT#GENERAL####1
+Great spot, whether looking for a couple of drinks or quiet dinner.####RESTAURANT#MISCELLANEOUS####1
+Warm and friendly in the winter and terrific outdoor seating in the warmer months.####AMBIENCE#GENERAL####1
+Warm and friendly in the winter and terrific outdoor seating in the warmer months.####AMBIENCE#GENERAL####1
+The food is great and they have a good selecion of wines at reasonable prices.####FOOD#QUALITY####1
+The food is great and they have a good selecion of wines at reasonable prices.####DRINKS#STYLE_OPTIONS####1
+The food is great and they have a good selecion of wines at reasonable prices.####DRINKS#PRICES####1
+Have been several times and it never dissapoints.####RESTAURANT#GENERAL####1
+We were less than impressed.####RESTAURANT#GENERAL####2
+While the ambiance and atmosphere were great, the food and service could have been a lot better.####AMBIENCE#GENERAL####1
+While the ambiance and atmosphere were great, the food and service could have been a lot better.####AMBIENCE#GENERAL####1
+While the ambiance and atmosphere were great, the food and service could have been a lot better.####FOOD#QUALITY####2
+While the ambiance and atmosphere were great, the food and service could have been a lot better.####SERVICE#GENERAL####2
+We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.####FOOD#QUALITY####2
+We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.####FOOD#STYLE_OPTIONS####2
+Probably would not go again...####RESTAURANT#GENERAL####2
+i've been to sapphire twice and both times the food was fine, if not good.####FOOD#QUALITY####1
+stick with the chicken, beef, and lamb dishes.####FOOD#QUALITY####1
+stick with the chicken, beef, and lamb dishes.####FOOD#QUALITY####1
+stick with the chicken, beef, and lamb dishes.####FOOD#QUALITY####1
+service is friendly, and never had a problem walking in and getting a table.####SERVICE#GENERAL####1
+service is friendly, and never had a problem walking in and getting a table.####RESTAURANT#MISCELLANEOUS####1
+skip dessert.####FOOD#QUALITY####2
+Best Reuben sandwich ever!####FOOD#QUALITY####1
+A classic!####FOOD#QUALITY####1
+Don't miss Bloom's on your next trip to Manhatten.####RESTAURANT#GENERAL####1
+It was the first place we ate on our first trip to New York, and it will be the last place we stop as we head out of town on our next trip to New York.####RESTAURANT#MISCELLANEOUS####1
+Thanks Bloom's for a lovely trip.####RESTAURANT#GENERAL####1
+The food was not fresh, the sauces were bland and very oily.####FOOD#QUALITY####2
+The food was not fresh, the sauces were bland and very oily.####FOOD#QUALITY####2
+It just wasn't Thai.####FOOD#QUALITY####2
+Was surprisingly disappointed.####FOOD#QUALITY####2
+Pizza was a little soggy.####FOOD#QUALITY####2
+Ravioli was good...but I have to say that I found everything a bit overpriced.####FOOD#QUALITY####1
+Ravioli was good...but I have to say that I found everything a bit overpriced.####FOOD#PRICES####2
+Not enough wines by the glass either.####DRINKS#STYLE_OPTIONS####2
+Service, however, was excellent...and I liked the setting/atmosphere a lot. ####SERVICE#GENERAL####1
+Service, however, was excellent...and I liked the setting/atmosphere a lot. ####AMBIENCE#GENERAL####1
+Food was just average...if they lowered the prices just a bit, it would be a bigger draw.####FOOD#QUALITY####0
+Food was just average...if they lowered the prices just a bit, it would be a bigger draw.####RESTAURANT#PRICES####2
+This place is a great bargain.####RESTAURANT#PRICES####1
+Authentic Pakistani food.####FOOD#QUALITY####1
+People are always friendly.####SERVICE#GENERAL####1
+Just straight up cheap, good food.####FOOD#QUALITY####1
+Just straight up cheap, good food.####FOOD#PRICES####1
+Faan is sooo good.####RESTAURANT#GENERAL####1
+The best pad thai i've ever had.####FOOD#QUALITY####1
+The design and atmosphere is just as good.####AMBIENCE#GENERAL####1
+The design and atmosphere is just as good.####AMBIENCE#GENERAL####1
+bottles of wine are cheap and good.####DRINKS#PRICES####1
+bottles of wine are cheap and good.####DRINKS#QUALITY####1
+What more could you want?####RESTAURANT#GENERAL####1
+The food was actually aweful.####FOOD#QUALITY####2
+I'm not picky - but it was actually gross.####FOOD#QUALITY####2
+The mussles were the fishiest things I've ever tasted, the seabass was bland, the goat cheese salad was missing the goat cheese, the penne w/ chicken had bones in it... It was disgusting.####FOOD#QUALITY####2
+The mussles were the fishiest things I've ever tasted, the seabass was bland, the goat cheese salad was missing the goat cheese, the penne w/ chicken had bones in it... It was disgusting.####FOOD#QUALITY####2
+The mussles were the fishiest things I've ever tasted, the seabass was bland, the goat cheese salad was missing the goat cheese, the penne w/ chicken had bones in it... It was disgusting.####FOOD#QUALITY####2
+The mussles were the fishiest things I've ever tasted, the seabass was bland, the goat cheese salad was missing the goat cheese, the penne w/ chicken had bones in it... It was disgusting.####FOOD#QUALITY####2
+The mussles were the fishiest things I've ever tasted, the seabass was bland, the goat cheese salad was missing the goat cheese, the penne w/ chicken had bones in it... It was disgusting.####FOOD#QUALITY####2
+Nice atmosphere, the service was very pleasant and the desert was good.####AMBIENCE#GENERAL####1
+Nice atmosphere, the service was very pleasant and the desert was good.####SERVICE#GENERAL####1
+Nice atmosphere, the service was very pleasant and the desert was good.####FOOD#QUALITY####1
+Wouldn't recomend it for dinner!####RESTAURANT#GENERAL####2
+This is the perfect date spot for Williamsburg couples.####RESTAURANT#MISCELLANEOUS####1
+The jukebox plays everything from Italian Opera to The Strokes.####AMBIENCE#GENERAL####1
+The food is amazing, rich pastas and fresh doughy pizza.####FOOD#QUALITY####1
+The food is amazing, rich pastas and fresh doughy pizza.####FOOD#STYLE_OPTIONS####1
+The food is amazing, rich pastas and fresh doughy pizza.####FOOD#QUALITY####1
+Best of all is the warm vibe, the owner is super friendly and service is fast.####AMBIENCE#GENERAL####1
+Best of all is the warm vibe, the owner is super friendly and service is fast.####SERVICE#GENERAL####1
+Best of all is the warm vibe, the owner is super friendly and service is fast.####SERVICE#GENERAL####1
+If only they delivered, they'd make a mint!####RESTAURANT#MISCELLANEOUS####0
+go here for the drinks!####DRINKS#QUALITY####1
+the drinks are amazing and half off till 8pm.####DRINKS#QUALITY####1
+the drinks are amazing and half off till 8pm.####DRINKS#PRICES####1
+Ask for Usha, the nicest bartender in manhattan.####SERVICE#GENERAL####1
+My fav was the sassy lassi...####DRINKS#QUALITY####1
+This is an amazing place to try some roti rolls.####FOOD#QUALITY####1
+I really recommend the very simple Unda (Egg) rolls.####FOOD#QUALITY####1
+Delicate spices, onions, eggs and a kick-ass roti.####FOOD#QUALITY####1
+Delicate spices, onions, eggs and a kick-ass roti.####FOOD#QUALITY####1
+Delicate spices, onions, eggs and a kick-ass roti.####FOOD#QUALITY####1
+Delicate spices, onions, eggs and a kick-ass roti.####FOOD#QUALITY####1
+Amazing!####FOOD#QUALITY####1
+Toons has recently been redone, so it's now a very attractive space.####AMBIENCE#GENERAL####1
+The food's as good as ever.####FOOD#QUALITY####1
+In an area sadly lacking in decent Thai food, this is one of the best spots.####FOOD#QUALITY####1
+Went here last night - nice decor, good service, but the food was surprisingly excellent.####AMBIENCE#GENERAL####1
+Went here last night - nice decor, good service, but the food was surprisingly excellent.####SERVICE#GENERAL####1
+Went here last night - nice decor, good service, but the food was surprisingly excellent.####FOOD#QUALITY####1
+The portions are HUGE, so it might be good to order three things to split (rather than one appetizer and entree per person) for two people.####FOOD#STYLE_OPTIONS####0
+Can't wait to go back.####RESTAURANT#GENERAL####1
+Best drumsticks over rice and sour spicy soup in town!####FOOD#QUALITY####1
+Best drumsticks over rice and sour spicy soup in town!####FOOD#QUALITY####1
+Beef noodle soup is good as well.####FOOD#QUALITY####1
+The service is good and the resturant is clean.####SERVICE#GENERAL####1
+The service is good and the resturant is clean.####AMBIENCE#GENERAL####1
+Best Taiwanese food in NY!####FOOD#QUALITY####1
+I have been to Rao's probably 15 times the past 3 years and it keeps getting better.####RESTAURANT#GENERAL####1
+For those that go once and don't enjoy it, all I can say is that they just don't get it.####RESTAURANT#MISCELLANEOUS####1
+Rao's has the best service and atmosphere in NYC.####SERVICE#GENERAL####1
+Rao's has the best service and atmosphere in NYC.####AMBIENCE#GENERAL####1
+Good luck getting a table.####RESTAURANT#MISCELLANEOUS####2
+My roommate and I LOVE this place.####RESTAURANT#GENERAL####1
+We recently decided to try this location, and to our delight, they have outdoor seating, perfect since I had my yorkie with me.####AMBIENCE#GENERAL####1
+Indoor was very cozy and cute.####AMBIENCE#GENERAL####1
+The portion sizes here are huge, and the sushi is good.####FOOD#STYLE_OPTIONS####1
+The portion sizes here are huge, and the sushi is good.####FOOD#QUALITY####1
+Staff is very accomodating.####SERVICE#GENERAL####1
+Excellent dumplings served amid clean, chic decor.####FOOD#QUALITY####1
+Excellent dumplings served amid clean, chic decor.####AMBIENCE#GENERAL####1
+I got the $10 10-piece dim sum combo, every bite of which was great.####FOOD#QUALITY####1
+But $1 for each small piece???####FOOD#PRICES####2
+Not worth it.####FOOD#PRICES####2
+I won't go back unless someone else is footing the bill.####RESTAURANT#PRICES####2
+The decor is very simple but comfortable.####AMBIENCE#GENERAL####1
+The food was delicious but do not come here on a empty stomach.####FOOD#QUALITY####1
+The food was delicious but do not come here on a empty stomach.####FOOD#STYLE_OPTIONS####2
+The portions are small but being that the food was so good makes up for that.####FOOD#STYLE_OPTIONS####2
+The portions are small but being that the food was so good makes up for that.####FOOD#QUALITY####1
+You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert.####FOOD#QUALITY####1
+You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert.####FOOD#QUALITY####1
+The staff there is very attentive and down to earth.####SERVICE#GENERAL####1
+I loved it and would go again.####RESTAURANT#GENERAL####1
+Great Indian food and the service is incredible.####FOOD#QUALITY####1
+Great Indian food and the service is incredible.####SERVICE#GENERAL####1
+The owner truly caters to all your needs.####SERVICE#GENERAL####1
+When family came in he gave them apps to test their palets, and then ordered for them.####SERVICE#GENERAL####1
+Everyone was more then happy with his choices.####SERVICE#GENERAL####1
+Great food and the prices are very reasonable.####FOOD#QUALITY####1
+Great food and the prices are very reasonable.####RESTAURANT#PRICES####1
+The food here does a great service to the name (Cantonese that is...).####FOOD#QUALITY####1
+I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork.####FOOD#QUALITY####1
+This dish is my favorite and I always get it when I go there and never get tired of it.####FOOD#QUALITY####1
+Try the congee and the donut like deep fried dough they call Ow Ley Soh, a delicious and sweet tasting bread.####FOOD#QUALITY####1
+Try the congee and the donut like deep fried dough they call Ow Ley Soh, a delicious and sweet tasting bread.####FOOD#QUALITY####1
+Simply some good tasting Chinese food at incredible prices...####FOOD#QUALITY####1
+Simply some good tasting Chinese food at incredible prices...####FOOD#PRICES####1
+Service is not what you are coming here for...####SERVICE#GENERAL####2
+Big Wong is a great place to eat and fill your stomach.####RESTAURANT#GENERAL####1
+whoever the jazz duo was, they were on POINT.####AMBIENCE#GENERAL####1
+good music, great food, speedy service affordable prices.####AMBIENCE#GENERAL####1
+good music, great food, speedy service affordable prices.####FOOD#QUALITY####1
+good music, great food, speedy service affordable prices.####SERVICE#GENERAL####1
+good music, great food, speedy service affordable prices.####RESTAURANT#PRICES####1
+even the wine by the glass was good.####DRINKS#QUALITY####1
+its a little out of the way if you don't live in the neighborhood, but definitely worth the trip from wherever you are.####LOCATION#GENERAL####2
+its a little out of the way if you don't live in the neighborhood, but definitely worth the trip from wherever you are.####RESTAURANT#GENERAL####1
+Consistently good Japanese Tapas.####FOOD#QUALITY####1
+Always good drinks and service is pretty good;####DRINKS#QUALITY####1
+Always good drinks and service is pretty good;####SERVICE#GENERAL####1
+Atmosphere is nice and relaxed too...####AMBIENCE#GENERAL####1
+A great place to meet up for some food and drinks...  ####RESTAURANT#MISCELLANEOUS####1
+Yakitori (bbq meats) is tasty too.####FOOD#QUALITY####1
+If you don't mind pre-sliced low quality fish, unfriendly staff and a sushi chef that looks like he is miserable then this is your place.####FOOD#QUALITY####2
+If you don't mind pre-sliced low quality fish, unfriendly staff and a sushi chef that looks like he is miserable then this is your place.####SERVICE#GENERAL####2
+If you don't mind pre-sliced low quality fish, unfriendly staff and a sushi chef that looks like he is miserable then this is your place.####RESTAURANT#MISCELLANEOUS####2
+Price and quality of fish alone will keep us from making a return visit.####FOOD#PRICES####2
+Price and quality of fish alone will keep us from making a return visit.####FOOD#QUALITY####2
+Price and quality of fish alone will keep us from making a return visit.####RESTAURANT#GENERAL####2
+Wasn't going to share but I feel obligated...while sitting at the sushi bar dining we watched the chef accidentally drop a piece of Unagi on the floor and upon retrieving it from the floor proceed to use the piece in the delivery order he was preparing.####FOOD#QUALITY####2
+No thanks!!!####RESTAURANT#GENERAL####2
+This place, which is only a few months old, is perhaps Queens' biggest secret!####RESTAURANT#GENERAL####1
+Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!####AMBIENCE#GENERAL####1
+Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!####FOOD#QUALITY####1
+Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!####FOOD#PRICES####1
+Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!####SERVICE#GENERAL####1
+Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!####AMBIENCE#GENERAL####1
+Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!####LOCATION#GENERAL####1
+Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!####RESTAURANT#PRICES####1
+We were seated outside and the waiter spilled red wine and hot tea on myself and my date.####SERVICE#GENERAL####2
+We were then shooed inside.####SERVICE#GENERAL####2
+One would think we'd get an apology or complimentary drinks - instead, we got a snobby waiter wouldn't even take our order for 15 minutes and gave us lip when we asked him to do so.####SERVICE#GENERAL####2
+We left, never to return.####RESTAURANT#GENERAL####2
+With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.####FOOD#PRICES####2
+With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.####SERVICE#GENERAL####2
+With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.####SERVICE#GENERAL####2
+With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.####SERVICE#GENERAL####2
+I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.####SERVICE#GENERAL####2
+I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.####FOOD#PRICES####2
+I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.####FOOD#QUALITY####2
+The food is okay and the prices here are mediocre.####FOOD#QUALITY####0
+The food is okay and the prices here are mediocre.####RESTAURANT#PRICES####0
+Baluchi's has solid food and a nice decor at reasonable prices.####FOOD#QUALITY####1
+Baluchi's has solid food and a nice decor at reasonable prices.####AMBIENCE#GENERAL####1
+Baluchi's has solid food and a nice decor at reasonable prices.####RESTAURANT#PRICES####1
+The only problem is that the manager is a complete incompetent.####SERVICE#GENERAL####2
+He offers subpar service and has no personality.####SERVICE#GENERAL####2
+In fact, it appears he is going to go postal at any moment.####SERVICE#GENERAL####2
+There is no excuse for such lousy service!####SERVICE#GENERAL####2
+I have never before eaten 40 pieces of relatively good nigiri.####FOOD#QUALITY####0
+You can do it here.####FOOD#STYLE_OPTIONS####1
+$20 for all you can eat sushi cannot be beaten.####FOOD#PRICES####1
+I went to Areo on a Sunday afternoon with four of my girlfriends, and spent three enjoyable hours there.####RESTAURANT#GENERAL####1
+Most of the servers are very attentive, friendly and quite attractive.####SERVICE#GENERAL####1
+The vibe is very relaxed and cozy, service was great and the food was excellent!####AMBIENCE#GENERAL####1
+The vibe is very relaxed and cozy, service was great and the food was excellent!####SERVICE#GENERAL####1
+The vibe is very relaxed and cozy, service was great and the food was excellent!####FOOD#QUALITY####1
+Me and my girls will definitely go back.####RESTAURANT#GENERAL####1
+Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went.####FOOD#QUALITY####1
+Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went.####LOCATION#GENERAL####1
+I would highly recommand requesting a table by the window.####LOCATION#GENERAL####1
+Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat.####SERVICE#GENERAL####1
+Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat.####AMBIENCE#GENERAL####1
+The food is great.####FOOD#QUALITY####1
+Personal pans are the perfect size for those hungry nights.####FOOD#STYLE_OPTIONS####1
+I heartily recommend.####RESTAURANT#GENERAL####1
+There is a downside if you're ordering in -- the delivery guys have MAJOR attitude.####SERVICE#GENERAL####2
+Never have I had such dramatic delivery guys (a lot of huffing and panting and muttering under breath b/c I live in a walkup) who always seem disappointed with their tips.####SERVICE#GENERAL####2
+Love the scene first off- the place has a character and nice light to it..very fortunate, location wise.####AMBIENCE#GENERAL####1
+Love the scene first off- the place has a character and nice light to it..very fortunate, location wise.####AMBIENCE#GENERAL####1
+Love the scene first off- the place has a character and nice light to it..very fortunate, location wise.####LOCATION#GENERAL####1
+The pizza was pretty good and huge.####FOOD#QUALITY####1
+The pizza was pretty good and huge.####FOOD#STYLE_OPTIONS####1
+The price very reasonable.####RESTAURANT#PRICES####1
+We were 4 and got the family size penne a la vodka which was tremendously gigantic portion...a bucket of food literally.####FOOD#STYLE_OPTIONS####1
+I would say that all was fine and tasty but the heaviness on my stomach someting that i can't not mention or undermine.####FOOD#QUALITY####2
+The pasta penne was pretty extra buttery, creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count, penne...got a little moody afterwards cause was stuffed...lol####FOOD#QUALITY####2
+The pasta penne was pretty extra buttery, creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count, penne...got a little moody afterwards cause was stuffed...lol####FOOD#STYLE_OPTIONS####2
+La Rosa waltzes in, and I think they are doing it the best.####FOOD#QUALITY####1
+Interesting selection, good wines, service fine, fun decor.####DRINKS#QUALITY####1
+Interesting selection, good wines, service fine, fun decor.####SERVICE#GENERAL####1
+Interesting selection, good wines, service fine, fun decor.####AMBIENCE#GENERAL####1
+Interesting selection, good wines, service fine, fun decor.####FOOD#STYLE_OPTIONS####1
+I love it.####RESTAURANT#GENERAL####1
+I plan on stopping by next week as well.####RESTAURANT#GENERAL####1
+I found it on a cold night, the perfect spot to warm up.####RESTAURANT#MISCELLANEOUS####1
+I recieved prompt service with a smile.####SERVICE#GENERAL####1
+To me it exemplifies Soho, cute, artsy, interesting.####AMBIENCE#GENERAL####1
+Definately check it out!!!####RESTAURANT#GENERAL####1
+This place blew me away...by far my new favorite restaurant on the uppereast side.####RESTAURANT#GENERAL####1
+The wine list is extensive and impressive.####DRINKS#STYLE_OPTIONS####1
+LOVE the atmosphere - felt like I was in Paris.####AMBIENCE#GENERAL####1
+The mussels were fantastic and so was the dessert...definitely going to be back very soon.####FOOD#QUALITY####1
+The mussels were fantastic and so was the dessert...definitely going to be back very soon.####FOOD#QUALITY####1
+The mussels were fantastic and so was the dessert...definitely going to be back very soon.####RESTAURANT#GENERAL####1
+I have been coming here for years and have nothing but good things to say about the service and the great staff at La Lanterna.####SERVICE#GENERAL####1
+I have been coming here for years and have nothing but good things to say about the service and the great staff at La Lanterna.####SERVICE#GENERAL####1
+Over the years the host, Vittorio, and his crew, have always treated me as family--although with all the business this not-so-little gem does, it amazing he's even able to remember a consistent but not-so-frequent visitor.####SERVICE#GENERAL####1
+Over the years the host, Vittorio, and his crew, have always treated me as family--although with all the business this not-so-little gem does, it amazing he's even able to remember a consistent but not-so-frequent visitor.####SERVICE#GENERAL####1
+I've also been amazed at all the new additions in the past few years: A new Jazz Bar, the most fantastic Dining Garden, the Best Thin Crust Pizzas, and now a Lasagna Menu which is to die for (these are not your average lasagnas)!####AMBIENCE#GENERAL####1
+I've also been amazed at all the new additions in the past few years: A new Jazz Bar, the most fantastic Dining Garden, the Best Thin Crust Pizzas, and now a Lasagna Menu which is to die for (these are not your average lasagnas)!####AMBIENCE#GENERAL####1
+I've also been amazed at all the new additions in the past few years: A new Jazz Bar, the most fantastic Dining Garden, the Best Thin Crust Pizzas, and now a Lasagna Menu which is to die for (these are not your average lasagnas)!####FOOD#QUALITY####1
+I've also been amazed at all the new additions in the past few years: A new Jazz Bar, the most fantastic Dining Garden, the Best Thin Crust Pizzas, and now a Lasagna Menu which is to die for (these are not your average lasagnas)!####FOOD#QUALITY####1
+I lOVE THIS PLACE!####RESTAURANT#GENERAL####1
+Keep up the good work guys!####RESTAURANT#GENERAL####1
+I have to say I have never had a disapointing meal here.####FOOD#QUALITY####1
+We could have made a meal of the yummy dumplings from the dumpling menu.####FOOD#QUALITY####1
+Luckily we saved room for the BBQ Salmon, Sea Bass and Crispy Duck.####FOOD#QUALITY####1
+Luckily we saved room for the BBQ Salmon, Sea Bass and Crispy Duck.####FOOD#QUALITY####1
+Luckily we saved room for the BBQ Salmon, Sea Bass and Crispy Duck.####FOOD#QUALITY####1
